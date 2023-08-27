@@ -3,7 +3,7 @@
 - 🔭 Trabalho em uma squad focada em produtos de plataforma **na XP Inc.**
 - 🌱Atualmente estou estudando sobre **Python, SQL e Banco de Dados**
 - 📫 Fale comigo atrvés do email: **henriq.sfreitas@gmail.com**
-- 📄 Saiba mais sobre mim em [www.linkedin.com/in/jhenriquefreitas](www.linkedin.com/in/jhenriquefreitas)
+- 📄 Saiba mais sobre mim em [linkedin.com/in/jhenriquefreitas](https://www.linkedin.com/in/jhenriquefreitas)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
